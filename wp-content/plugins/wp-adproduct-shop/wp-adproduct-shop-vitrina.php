@@ -207,6 +207,7 @@ function vitrina_category($vitrina_id) {
 		$api_key = '';
 		$adproduct_options = get_option('adproduct_options');
 		$api_key = $adproduct_options['adproduct_api_key'];
+		var_dump($adproduct_options);
 		$postdata = array(
 			'api_key' => $api_key,
 			'action' => 'get_tiser',
