@@ -1,0 +1,1 @@
+<div class="top-menu">	<?php if ( ! dynamic_sidebar( 'product-widget-area' ) ) : ?>	<?php endif; ?>	</div><!--#sidebar-->

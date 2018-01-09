@@ -1,0 +1,5 @@
+<?php // Template name: Все скидкиget_header(); ?>	<?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?><h1 class="entry-title"><?php the_title(); ?></h1>		
+<div class="row">
+	<?php get_sidebar('discount'); ?>	<div class="col-md-8">		<div class="white-block p-25 m-0-0-25-0">		<p>Основная задача нашего сайта - помогать вам экономить и получать скидки в Интернет магазинах. Вам больше не нужно часами искать актуальные купоны на скидки и подарки, потому что мы уже сделали это за вас. На нашем сайте публикуются только актуальные промокоды Интернет-магазинов, поэтому вы легко сможете найти нужный Интернет-магазин и получить скидку.</p>	</div>		</div>	</div><div class="row">
+	<div id="all_promocode"><img class="preload" src="/wp-content/themes/promocode/images/ajax-loader.gif"></div></div><!-- #content -->		<div class="row">	<div class="col-md-12">					<div class="entry-content white-block p-25 m-0-0-45-0">			<?php the_content(); ?>		</div><!-- .entry-content -->	</div></div><?php endwhile; ?>
+<?php get_footer(); ?>

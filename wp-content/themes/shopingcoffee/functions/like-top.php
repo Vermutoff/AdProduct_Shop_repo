@@ -1,0 +1,1 @@
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareQuickServices="twitter,vkontakte,facebook,gplus" data-yashareTheme="counter" data-yashareType="large" data-yashareTitle="<?php the_title(); ?>" data-yashareLink="<?php the_permalink(); ?>" data-yashareDescription="<?php the_excerpt(); ?>"></div>
