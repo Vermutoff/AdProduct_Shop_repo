@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="Big Server" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="Big Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/www/shopingcoffee.ru" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/www/shopingcoffee.ru/cgi-bin" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-admin" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-includes" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/languages" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/upgrade" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/uploads" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/granitos" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/shopingcoffee_old" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/sweethome" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/akismet" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/automatic-updater" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/contact-form-7" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/cyr2lat" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/fancybox-for-wordpress" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/gdeslon-affiliate-shop" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/pc-robotstxt" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/post-plugin-library" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/redirection" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/share-buttons" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/types" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/unisender-integration" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/wordpress-mu-domain-mapping" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/wordpress-seo" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/wp-gdeslon-shop (old)" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/wp-gdeslon-shop 1.0.1" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/wp-pagenavi" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cgi-bin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-admin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-includes" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/languages" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/upgrade" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/uploads" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/themes/granitos" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/themes/shopingcoffee_old" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/themes/sweethome" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/akismet" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/automatic-updater" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/contact-form-7" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/cyr2lat" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/fancybox-for-wordpress" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/gdeslon-affiliate-shop" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/pc-robotstxt" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/post-plugin-library" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/redirection" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/share-buttons" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/types" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/unisender-integration" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/wordpress-mu-domain-mapping" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/wordpress-seo" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/wp-gdeslon-shop (old)" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/wp-gdeslon-shop 1.0.1" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/plugins/wp-pagenavi" />
+            <excludedPath path="/www/shopingcoffee.ru/index.php" />
+            <excludedPath path="/www/shopingcoffee.ru/info.php" />
+            <excludedPath path="/www/shopingcoffee.ru/license.txt" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-activate.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-blog-header.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-comments-post.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-config.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-cron.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-links-opml.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-load.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-login.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-mail.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-settings.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-signup.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-trackback.php" />
+            <excludedPath path="/www/shopingcoffee.ru/xmlrpc.php" />
+            <excludedPath path="/www/shopingcoffee.ru/yandex_45fa1c7d36a6220a.txt" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/index.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/sunrise.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/wp-adproduct-shop/img" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/plugins/index.php" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/shopingcoffee/css/bootstrap-theme.css" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/shopingcoffee/fonts" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/shopingcoffee/images" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/shopingcoffee/functions/gde_slon_vitrina" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/shopingcoffee/functions/gde_slon_vitrina_xml_api" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/shopingcoffee/functions/subscribe_forms" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/shopingcoffee/functions/unrate" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/shopingcoffee/functions/xml_cupons_gdeslon" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/shopingcoffee/functions/xmls" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/shopingcoffee/languages" />
+            <excludedPath path="/www/shopingcoffee.ru/wp-content/themes/shopingcoffee/js/fotorama" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Mini Server">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="SocialShoping">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

@@ -195,7 +195,7 @@ function adproduct_vitrina_callback() {
 	if($vitrina_id) {
 		echo vitrina_category($vitrina_id);
 	} else {
-		echo $gs_vitrina_string;
+		echo 'Возникла ошибка №adproduct_vitrina_10';
 	}
 
 	exit; // выход нужен для того, чтобы в ответе не было ничего лишнего, только то что возвращает функция
@@ -221,7 +221,7 @@ function vitrina_category($vitrina_id) {
 		curl_setopt($ch, CURLOPT_TIMEOUT, 10);
 		curl_setopt($ch, CURLOPT_URL, 'http://'.$adproduct_server_url.'/api');
 		$result = curl_exec($ch);
-		var_dump($result);
+	//	var_dump($result);
 		$json_decode = json_decode($result);
 		$catalog_string = adproduct_vitrina_from_json_decode($json_decode, $vitrina_id);
 	}
